@@ -1,10 +1,10 @@
 # Autorama Telemetry
 
-One Paragraph of the project description
+As corridas de autorama são decididas nos milésimos de segundo, por isso resolvemos desenvolver um sistema de telemetria que ajudasse os pilotos e mecanicos nas melhores estratégias e ajustes. Com o sistema de telemetri é possível otimizar acelerações e freadas para ganhar os preciosos milessegundos.
 
+Nosso sistema irá utilizar Processador ESP32 e Sensor MPU9250, junto com programação em C++ e Swift.
 
 ## Getting Started
-
 These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
 for notes on deploying the project on a live system.
