@@ -1,9 +1,7 @@
-# Project Title
+# Autorama Telemetry
 
 One Paragraph of the project description
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
 
 ## Getting Started
 
@@ -67,14 +65,12 @@ of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+
 
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+  - **José Maria Só Rodriges** - *Developer* -
+    
 
 See also the list of
 [contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
